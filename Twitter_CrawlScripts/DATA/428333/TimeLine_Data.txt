@@ -1,0 +1,483 @@
+-> contributors	None
+-> truncated	False
+-> text	Lufthansa CEO: Company "speechless" #Germanwings plane "has been deliberately crashed by co-pilot" http://t.co/IpfbBv3cHM
+-> in_reply_to_status_id	None
+-> id	581090496900108288
+-> favorite_count	282
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [36, 48], u'text': u'Germanwings'}], u'urls': [{u'url': u'http://t.co/IpfbBv3cHM', u'indices': [99, 121], u'expanded_url': u'http://cnn.it/1GZntp2', u'display_url': u'cnn.it/1GZntp2'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581090496900108288
+-> retweet_count	457
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 13:49:05 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @CNNMoney: The sell-off continues: Nasdaq is falling fastest, down nearly 1% already. Dow off 95 points.  http://t.co/A9OlUXl3FI
+-> in_reply_to_status_id	None
+-> id	581087817050284034
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 16184358, u'indices': [3, 12], u'id_str': u'16184358', u'screen_name': u'CNNMoney', u'name': u'CNNMoney'}], u'hashtags': [], u'urls': [{u'url': u'http://t.co/A9OlUXl3FI', u'indices': [109, 131], u'expanded_url': u'http://cnnmon.ie/bkgnews', u'display_url': u'cnnmon.ie/bkgnews'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581087817050284034
+-> retweet_count	254
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u'The sell-off continues: Nasdaq is falling fastest, down nearly 1% already. Dow off 95 points.  http://t.co/A9OlUXl3FI', u'in_reply_to_status_id': None, u'id': 581086330651828228, u'favorite_count': 325, u'source': u'<a href="http://money.cnn.com/" rel="nofollow">CNNMoney</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/A9OlUXl3FI', u'indices': [95, 117], u'expanded_url': u'http://cnnmon.ie/bkgnews', u'display_url': u'cnnmon.ie/bkgnews'}]}, u'in_reply_to_screen_name': None, u'id_str': u'581086330651828228', u'retweet_count': 254, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': False, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 16184358, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/415352398/cnnmoney-bg-tile.jpg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/562388464209895424/klTcBowc_normal.png', u'profile_sidebar_fill_color': u'F0F0F0', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/6ltU37Tymf', u'indices': [0, 22], u'expanded_url': u'http://CNNMoney.com', u'display_url': u'CNNMoney.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/RiReXP4sBN', u'indices': [56, 78], u'expanded_url': u'http://bit.ly/1oRPFkD', u'display_url': u'bit.ly/1oRPFkD'}]}}, u'followers_count': 988081, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16184358', u'profile_background_color': u'CCCCCC', u'listed_count': 16546, u'is_translation_enabled': False, u'utc_offset': -14400, u'statuses_count': 73138, u'description': u'The money news that matters most to you. Meet our team: http://t.co/RiReXP4sBN', u'friends_count': 887, u'location': u'', u'profile_link_color': u'004571', u'profile_image_url': u'http://pbs.twimg.com/profile_images/562388464209895424/klTcBowc_normal.png', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16184358/1422918817', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/415352398/cnnmoney-bg-tile.jpg', u'name': u'CNNMoney', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 124, u'screen_name': u'CNNMoney', u'notifications': False, u'url': u'http://t.co/6ltU37Tymf', u'created_at': u'Mon Sep 08 13:44:47 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Thu Mar 26 13:32:31 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 13:38:26 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Unknown if #Germanwings co-pilot planned actions in advance, but he "took advantage" of pilot leaving the cockpit, prosecutor says
+-> in_reply_to_status_id	None
+-> id	581069462931140608
+-> favorite_count	514
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [11, 23], u'text': u'Germanwings'}], u'urls': []}
+-> in_reply_to_screen_name	None
+-> id_str	581069462931140608
+-> retweet_count	792
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> lang	en
+-> created_at	Thu Mar 26 12:25:30 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Correction: #Germanwings co-pilot activated (not "accelerated") the plane's descent, prosecutor says
+-> in_reply_to_status_id	None
+-> id	581068182619889665
+-> favorite_count	347
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [12, 24], u'text': u'Germanwings'}], u'urls': []}
+-> in_reply_to_screen_name	None
+-> id_str	581068182619889665
+-> retweet_count	501
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> lang	en
+-> created_at	Thu Mar 26 12:20:25 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Co-pilot of crashed #Germanwings plane was Andreas Lubitz; religion unknown, prosecutor says
+-> in_reply_to_status_id	None
+-> id	581064306034364416
+-> favorite_count	393
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [20, 32], u'text': u'Germanwings'}], u'urls': []}
+-> in_reply_to_screen_name	None
+-> id_str	581064306034364416
+-> retweet_count	741
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> lang	en
+-> created_at	Thu Mar 26 12:05:00 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	From what investigators have found, it seems the co-pilot "wanted to destroy the aircraft," prosecutor says of #Germanwings crash
+-> in_reply_to_status_id	None
+-> id	581062749947592704
+-> favorite_count	554
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [111, 123], u'text': u'Germanwings'}], u'urls': []}
+-> in_reply_to_screen_name	None
+-> id_str	581062749947592704
+-> retweet_count	1561
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> lang	en
+-> created_at	Thu Mar 26 11:58:49 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	#Germanwings co-pilot accelerated the plane's descent while alone in the cockpit, which can only be done deliberately, prosecutor says
+-> in_reply_to_status_id	None
+-> id	581060155057577984
+-> favorite_count	561
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [0, 12], u'text': u'Germanwings'}], u'urls': []}
+-> in_reply_to_screen_name	None
+-> id_str	581060155057577984
+-> retweet_count	1851
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> lang	en
+-> created_at	Thu Mar 26 11:48:31 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	At least 18 killed in Saudi-led airstrikes in Yemen's capital overnight, rebel-run news outlet in Yemen reports. http://t.co/kFxx3issxR
+-> in_reply_to_status_id	None
+-> id	581057105249091584
+-> favorite_count	328
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/kFxx3issxR', u'indices': [113, 135], u'expanded_url': u'http://cnn.it/1OAlWuR', u'display_url': u'cnn.it/1OAlWuR'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581057105249091584
+-> retweet_count	230
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 11:36:24 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Bomb blast ripped through Istanbul offices of pro-ISIS magazine killing writer, hurting editor-in-chief &amp; 2 others. http://t.co/94IMG9mZjJ
+-> in_reply_to_status_id	None
+-> id	581050531310895104
+-> favorite_count	482
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/94IMG9mZjJ', u'indices': [120, 142], u'expanded_url': u'http://cnn.it/1E3z4pa', u'display_url': u'cnn.it/1E3z4pa'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581050531310895104
+-> retweet_count	465
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 11:10:16 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @CNNPolitics: In an op-ed for #CNN, @FLOTUS has a challenge for you http://t.co/vLKPEB4FYk http://t.co/5ZgRP0sORS
+-> in_reply_to_status_id	None
+-> id	581035604642820096
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 13850422, u'indices': [3, 15], u'id_str': u'13850422', u'screen_name': u'CNNPolitics', u'name': u'CNN Politics'}, {u'id': 1093090866, u'indices': [39, 46], u'id_str': u'1093090866', u'screen_name': u'FLOTUS', u'name': u'The First Lady'}], u'hashtags': [{u'indices': [33, 37], u'text': u'CNN'}], u'urls': [{u'url': u'http://t.co/vLKPEB4FYk', u'indices': [71, 93], u'expanded_url': u'http://cnn.it/1M3bygw', u'display_url': u'cnn.it/1M3bygw'}], u'media': [{u'source_user_id': 13850422, u'source_status_id_str': u'581034805325918208', u'expanded_url': u'http://twitter.com/CNNPolitics/status/581034805325918208/photo/1', u'display_url': u'pic.twitter.com/5ZgRP0sORS', u'url': u'http://t.co/5ZgRP0sORS', u'media_url_https': u'https://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg', u'source_user_id_str': u'13850422', u'source_status_id': 581034805325918208, u'id_str': u'581034804809871360', u'sizes': {u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'large': {u'h': 576, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [94, 116], u'type': u'photo', u'id': 581034804809871360, u'media_url': u'http://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581035604642820096
+-> retweet_count	452
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u'In an op-ed for #CNN, @FLOTUS has a challenge for you http://t.co/vLKPEB4FYk http://t.co/5ZgRP0sORS', u'in_reply_to_status_id': None, u'id': 581034805325918208, u'favorite_count': 646, u'source': u'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [{u'id': 1093090866, u'indices': [22, 29], u'id_str': u'1093090866', u'screen_name': u'FLOTUS', u'name': u'The First Lady'}], u'hashtags': [{u'indices': [16, 20], u'text': u'CNN'}], u'urls': [{u'url': u'http://t.co/vLKPEB4FYk', u'indices': [54, 76], u'expanded_url': u'http://cnn.it/1M3bygw', u'display_url': u'cnn.it/1M3bygw'}], u'media': [{u'expanded_url': u'http://twitter.com/CNNPolitics/status/581034805325918208/photo/1', u'display_url': u'pic.twitter.com/5ZgRP0sORS', u'url': u'http://t.co/5ZgRP0sORS', u'media_url_https': u'https://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg', u'id_str': u'581034804809871360', u'sizes': {u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'large': {u'h': 576, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [77, 99], u'type': u'photo', u'id': 581034804809871360, u'media_url': u'http://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg'}]}, u'in_reply_to_screen_name': None, u'id_str': u'581034805325918208', u'retweet_count': 452, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 13850422, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/573854740108328961/PE2ipMxk.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/573520614809436160/FzoeTXdj_normal.png', u'profile_sidebar_fill_color': u'F1F5E7', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PdbSe7q3MW', u'indices': [0, 22], u'expanded_url': u'http://CNNPolitics.com', u'display_url': u'CNNPolitics.com'}]}, u'description': {u'urls': []}}, u'followers_count': 247639, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'13850422', u'profile_background_color': u'100F14', u'listed_count': 5342, u'is_translation_enabled': False, u'utc_offset': -14400, u'statuses_count': 21431, u'description': u"Political news, campaign stories, and Washington coverage from CNN's Political team.", u'friends_count': 782, u'location': u'Washington, D.C.', u'profile_link_color': u'0000FF', u'profile_image_url': u'http://pbs.twimg.com/profile_images/573520614809436160/FzoeTXdj_normal.png', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/13850422/1425572931', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/573854740108328961/PE2ipMxk.jpeg', u'name': u'CNN Politics', u'lang': u'en', u'profile_background_tile': True, u'favourites_count': 170, u'screen_name': u'CNNPolitics', u'notifications': False, u'url': u'http://t.co/PdbSe7q3MW', u'created_at': u'Sat Feb 23 03:12:49 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Thu Mar 26 10:07:47 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None, u'extended_entities': {u'media': [{u'expanded_url': u'http://twitter.com/CNNPolitics/status/581034805325918208/photo/1', u'display_url': u'pic.twitter.com/5ZgRP0sORS', u'url': u'http://t.co/5ZgRP0sORS', u'media_url_https': u'https://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg', u'id_str': u'581034804809871360', u'sizes': {u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'large': {u'h': 576, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [77, 99], u'type': u'photo', u'id': 581034804809871360, u'media_url': u'http://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg'}]}}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 10:10:57 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'source_user_id': 13850422, u'source_status_id_str': u'581034805325918208', u'expanded_url': u'http://twitter.com/CNNPolitics/status/581034805325918208/photo/1', u'display_url': u'pic.twitter.com/5ZgRP0sORS', u'url': u'http://t.co/5ZgRP0sORS', u'media_url_https': u'https://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg', u'source_user_id_str': u'13850422', u'source_status_id': 581034805325918208, u'id_str': u'581034804809871360', u'sizes': {u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'large': {u'h': 576, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [94, 116], u'type': u'photo', u'id': 581034804809871360, u'media_url': u'http://pbs.twimg.com/media/CBBAE5bUsAAeK2m.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @NewDay: One of the pilots in #Germanwings crash was not in the cockpit when plane went down #5Things  http://t.co/9XugTYdb19 http://t.c…
+-> in_reply_to_status_id	None
+-> id	581020916861124608
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 1375289149, u'indices': [3, 10], u'id_str': u'1375289149', u'screen_name': u'NewDay', u'name': u'New Day'}], u'hashtags': [{u'indices': [33, 45], u'text': u'Germanwings'}, {u'indices': [96, 104], u'text': u'5Things'}], u'urls': [{u'url': u'http://t.co/9XugTYdb19', u'indices': [106, 128], u'expanded_url': u'http://cnn.it/1OA4Xc7', u'display_url': u'cnn.it/1OA4Xc7'}], u'media': [{u'source_user_id': 1375289149, u'source_status_id_str': u'581020259831824385', u'expanded_url': u'http://twitter.com/NewDay/status/581020259831824385/photo/1', u'display_url': u'pic.twitter.com/Xy68jeHqYG', u'url': u'http://t.co/Xy68jeHqYG', u'media_url_https': u'https://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg', u'source_user_id_str': u'1375289149', u'source_status_id': 581020259831824385, u'id_str': u'581020094685278208', u'sizes': {u'small': {u'h': 190, u'resize': u'fit', u'w': 340}, u'large': {u'h': 438, u'resize': u'fit', u'w': 780}, u'medium': {u'h': 336, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [139, 140], u'type': u'photo', u'id': 581020094685278208, u'media_url': u'http://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581020916861124608
+-> retweet_count	517
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u'One of the pilots in #Germanwings crash was not in the cockpit when plane went down #5Things  http://t.co/9XugTYdb19 http://t.co/Xy68jeHqYG', u'in_reply_to_status_id': None, u'id': 581020259831824385, u'favorite_count': 419, u'source': u'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [21, 33], u'text': u'Germanwings'}, {u'indices': [84, 92], u'text': u'5Things'}], u'urls': [{u'url': u'http://t.co/9XugTYdb19', u'indices': [94, 116], u'expanded_url': u'http://cnn.it/1OA4Xc7', u'display_url': u'cnn.it/1OA4Xc7'}], u'media': [{u'expanded_url': u'http://twitter.com/NewDay/status/581020259831824385/photo/1', u'display_url': u'pic.twitter.com/Xy68jeHqYG', u'url': u'http://t.co/Xy68jeHqYG', u'media_url_https': u'https://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg', u'id_str': u'581020094685278208', u'sizes': {u'small': {u'h': 190, u'resize': u'fit', u'w': 340}, u'large': {u'h': 438, u'resize': u'fit', u'w': 780}, u'medium': {u'h': 336, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [117, 139], u'type': u'photo', u'id': 581020094685278208, u'media_url': u'http://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg'}]}, u'in_reply_to_screen_name': None, u'id_str': u'581020259831824385', u'retweet_count': 517, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'333333', u'default_profile_image': False, u'id': 1375289149, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/433320936738013185/YO4bZlUr.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/514729467890003969/KAf_Wq6L_normal.jpeg', u'profile_sidebar_fill_color': u'DDEEF6', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PMMLulk9ls', u'indices': [0, 22], u'expanded_url': u'http://www.NewDayCNN.com', u'display_url': u'NewDayCNN.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/nHp3Ce1s4Y', u'indices': [99, 121], u'expanded_url': u'http://Facebook.com/NewDay', u'display_url': u'Facebook.com/NewDay'}, {u'url': u'http://t.co/x01EPNN1Qx', u'indices': [122, 144], u'expanded_url': u'http://newdaycnn.tumblr.com/', u'display_url': u'newdaycnn.tumblr.com'}]}}, u'followers_count': 125170, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'1375289149', u'profile_background_color': u'2D5789', u'listed_count': 970, u'is_translation_enabled': False, u'utc_offset': -10800, u'statuses_count': 29465, u'description': u'@ChrisCuomo, @AlisynCamerota & @MichaelaCNN report the latest news & top stories, 6-9a ET on @CNN. http://t.co/nHp3Ce1s4Y http://t.co/x01EPNN1Qx', u'friends_count': 1267, u'location': u'', u'profile_link_color': u'FF3300', u'profile_image_url': u'http://pbs.twimg.com/profile_images/514729467890003969/KAf_Wq6L_normal.jpeg', u'following': False, u'geo_enabled': True, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/1375289149/1423085044', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/433320936738013185/YO4bZlUr.jpeg', u'name': u'New Day', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 6830, u'screen_name': u'NewDay', u'notifications': False, u'url': u'http://t.co/PMMLulk9ls', u'created_at': u'Tue Apr 23 19:11:41 +0000 2013', u'contributors_enabled': False, u'time_zone': u'Atlantic Time (Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Thu Mar 26 09:09:59 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None, u'extended_entities': {u'media': [{u'expanded_url': u'http://twitter.com/NewDay/status/581020259831824385/photo/1', u'display_url': u'pic.twitter.com/Xy68jeHqYG', u'url': u'http://t.co/Xy68jeHqYG', u'media_url_https': u'https://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg', u'id_str': u'581020094685278208', u'sizes': {u'small': {u'h': 190, u'resize': u'fit', u'w': 340}, u'large': {u'h': 438, u'resize': u'fit', u'w': 780}, u'medium': {u'h': 336, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [117, 139], u'type': u'photo', u'id': 581020094685278208, u'media_url': u'http://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg'}]}}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 09:12:36 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'source_user_id': 1375289149, u'source_status_id_str': u'581020259831824385', u'expanded_url': u'http://twitter.com/NewDay/status/581020259831824385/photo/1', u'display_url': u'pic.twitter.com/Xy68jeHqYG', u'url': u'http://t.co/Xy68jeHqYG', u'media_url_https': u'https://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg', u'source_user_id_str': u'1375289149', u'source_status_id': 581020259831824385, u'id_str': u'581020094685278208', u'sizes': {u'small': {u'h': 190, u'resize': u'fit', u'w': 340}, u'large': {u'h': 438, u'resize': u'fit', u'w': 780}, u'medium': {u'h': 336, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [139, 140], u'type': u'photo', u'id': 581020094685278208, u'media_url': u'http://pbs.twimg.com/media/CBAysp8UcAAojCk.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Relatives: Colorado woman whose fetus was cut from her womb in attack last week has been released from the hospital. http://t.co/C59lAb08ne
+-> in_reply_to_status_id	None
+-> id	581018378304815106
+-> favorite_count	382
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/C59lAb08ne', u'indices': [117, 139], u'expanded_url': u'http://cnn.it/1IxQsRO', u'display_url': u'cnn.it/1IxQsRO'}]}
+-> in_reply_to_screen_name	None
+-> id_str	581018378304815106
+-> retweet_count	235
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 09:02:30 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	The reported kidnapping of a Vallejo, California, woman for ransom this week was nothing but a hoax, police said. http://t.co/LKpNkDwIj7
+-> in_reply_to_status_id	None
+-> id	580996901585100800
+-> favorite_count	259
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/LKpNkDwIj7', u'indices': [114, 136], u'expanded_url': u'http://cnn.it/1BrJJDl', u'display_url': u'cnn.it/1BrJJDl'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580996901585100800
+-> retweet_count	233
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 07:37:10 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Florida teen fatally shot brother, hurt another after argument over food, then killed self, authorities said. http://t.co/RdKNxVp9Bs
+-> in_reply_to_status_id	None
+-> id	580974437639548928
+-> favorite_count	451
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/RdKNxVp9Bs', u'indices': [110, 132], u'expanded_url': u'http://cnn.it/1FWdYIB', u'display_url': u'cnn.it/1FWdYIB'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580974437639548928
+-> retweet_count	523
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 06:07:54 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Saudi state media: More than 10 countries are involved in Saudi Arabian-led coalition fighting rebels in Yemen. http://t.co/T6a1nqJRuf
+-> in_reply_to_status_id	None
+-> id	580936843056824320
+-> favorite_count	444
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/T6a1nqJRuf', u'indices': [112, 134], u'expanded_url': u'http://cnn.it/1EVJ29T', u'display_url': u'cnn.it/1EVJ29T'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580936843056824320
+-> retweet_count	518
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 03:38:31 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Conflicting reports about President Hadi's whereabouts as rebels advance in Yemen; Saudi Arabia launches airstrikes. http://t.co/T6a1nqJRuf
+-> in_reply_to_status_id	None
+-> id	580905736328331264
+-> favorite_count	354
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/T6a1nqJRuf', u'indices': [117, 139], u'expanded_url': u'http://cnn.it/1EVJ29T', u'display_url': u'cnn.it/1EVJ29T'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580905736328331264
+-> retweet_count	305
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 01:34:54 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Letter from Sgt. Bowe Bergdahl describes torture he endured during five years of captivity. http://t.co/TSgEz5Lplg
+-> in_reply_to_status_id	None
+-> id	580897058229350400
+-> favorite_count	431
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/TSgEz5Lplg', u'indices': [92, 114], u'expanded_url': u'http://cnn.it/1Br4Khv', u'display_url': u'cnn.it/1Br4Khv'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580897058229350400
+-> retweet_count	191
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 01:00:25 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	One of the pilots on Flight 9525 was locked out of the cockpit when plane crashed, official tells The New York Times. http://t.co/HN0uy4jmup
+-> in_reply_to_status_id	None
+-> id	580881150891020288
+-> favorite_count	746
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/HN0uy4jmup', u'indices': [118, 140], u'expanded_url': u'http://cnn.it/1HD48NP', u'display_url': u'cnn.it/1HD48NP'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580881150891020288
+-> retweet_count	1599
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Wed Mar 25 23:57:13 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Indiana governor expected to sign bill that would allow LGBT customers to be turned away. http://t.co/nqp0CcuFfc http://t.co/uKIkPbsfNX
+-> in_reply_to_status_id	None
+-> id	580869478935863297
+-> favorite_count	739
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [{u'url': u'http://t.co/nqp0CcuFfc', u'indices': [90, 112], u'expanded_url': u'http://cnn.it/19m73va', u'display_url': u'cnn.it/19m73va'}], u'media': [{u'expanded_url': u'http://twitter.com/cnnbrk/status/580869478935863297/photo/1', u'display_url': u'pic.twitter.com/uKIkPbsfNX', u'url': u'http://t.co/uKIkPbsfNX', u'media_url_https': u'https://pbs.twimg.com/media/CA-ptnwWAAA5YPw.jpg', u'id_str': u'580869478185041920', u'sizes': {u'large': {u'h': 552, u'resize': u'fit', u'w': 980}, u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [113, 135], u'type': u'photo', u'id': 580869478185041920, u'media_url': u'http://pbs.twimg.com/media/CA-ptnwWAAA5YPw.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580869478935863297
+-> retweet_count	1297
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Wed Mar 25 23:10:50 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/cnnbrk/status/580869478935863297/photo/1', u'display_url': u'pic.twitter.com/uKIkPbsfNX', u'url': u'http://t.co/uKIkPbsfNX', u'media_url_https': u'https://pbs.twimg.com/media/CA-ptnwWAAA5YPw.jpg', u'id_str': u'580869478185041920', u'sizes': {u'large': {u'h': 552, u'resize': u'fit', u'w': 980}, u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [113, 135], u'type': u'photo', u'id': 580869478185041920, u'media_url': u'http://pbs.twimg.com/media/CA-ptnwWAAA5YPw.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @CNNweather: Confirmed #tornado west of #Tulsa. Tornado warning includes downtown Tulsa. #okwx http://t.co/7SRXKOQRum
+-> in_reply_to_status_id	None
+-> id	580860744981417984
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 26003862, u'indices': [3, 14], u'id_str': u'26003862', u'screen_name': u'CNNweather', u'name': u'CNN Weather Center'}], u'hashtags': [{u'indices': [26, 34], u'text': u'tornado'}, {u'indices': [43, 49], u'text': u'Tulsa'}, {u'indices': [92, 97], u'text': u'okwx'}], u'urls': [], u'media': [{u'source_user_id': 26003862, u'source_status_id_str': u'580859856581689345', u'expanded_url': u'http://twitter.com/CNNweather/status/580859856581689345/photo/1', u'display_url': u'pic.twitter.com/7SRXKOQRum', u'url': u'http://t.co/7SRXKOQRum', u'media_url_https': u'https://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png', u'source_user_id_str': u'26003862', u'source_status_id': 580859856581689345, u'id_str': u'580859829918412800', u'sizes': {u'large': {u'h': 486, u'resize': u'fit', u'w': 864}, u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [98, 120], u'type': u'photo', u'id': 580859829918412800, u'media_url': u'http://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580860744981417984
+-> retweet_count	515
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u'Confirmed #tornado west of #Tulsa. Tornado warning includes downtown Tulsa. #okwx http://t.co/7SRXKOQRum', u'in_reply_to_status_id': None, u'id': 580859856581689345, u'favorite_count': 440, u'source': u'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [10, 18], u'text': u'tornado'}, {u'indices': [27, 33], u'text': u'Tulsa'}, {u'indices': [76, 81], u'text': u'okwx'}], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/CNNweather/status/580859856581689345/photo/1', u'display_url': u'pic.twitter.com/7SRXKOQRum', u'url': u'http://t.co/7SRXKOQRum', u'media_url_https': u'https://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png', u'id_str': u'580859829918412800', u'sizes': {u'large': {u'h': 486, u'resize': u'fit', u'w': 864}, u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [82, 104], u'type': u'photo', u'id': 580859829918412800, u'media_url': u'http://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png'}]}, u'in_reply_to_screen_name': None, u'id_str': u'580859856581689345', u'retweet_count': 515, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': False, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 26003862, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/18666304/CNN_Twitter_Background_05_2009__2_.gif.png', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/530093030640848896/XsE8qJ9F_normal.png', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/NJWCmLIAek', u'indices': [0, 22], u'expanded_url': u'http://www.cnn.com', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 120440, u'profile_sidebar_border_color': u'000000', u'id_str': u'26003862', u'profile_background_color': u'000000', u'listed_count': 2962, u'is_translation_enabled': False, u'utc_offset': -18000, u'statuses_count': 6112, u'description': u"When weather is the news, you can count on CNN's team of experienced meteorologists to bring it to you first. #CNNWeather", u'friends_count': 315, u'location': u'Atlanta, GA', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/530093030640848896/XsE8qJ9F_normal.png', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/26003862/1415219207', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/18666304/CNN_Twitter_Background_05_2009__2_.gif.png', u'name': u'CNN Weather Center', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 80, u'screen_name': u'CNNweather', u'notifications': False, u'url': u'http://t.co/NJWCmLIAek', u'created_at': u'Mon Mar 23 13:53:22 +0000 2009', u'contributors_enabled': False, u'time_zone': u'Quito', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Wed Mar 25 22:32:36 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None, u'extended_entities': {u'media': [{u'expanded_url': u'http://twitter.com/CNNweather/status/580859856581689345/photo/1', u'display_url': u'pic.twitter.com/7SRXKOQRum', u'url': u'http://t.co/7SRXKOQRum', u'media_url_https': u'https://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png', u'id_str': u'580859829918412800', u'sizes': {u'large': {u'h': 486, u'resize': u'fit', u'w': 864}, u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [82, 104], u'type': u'photo', u'id': 580859829918412800, u'media_url': u'http://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png'}]}}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 428333, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'profile_sidebar_fill_color': u'EEEEEE', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/HjKR4r61U5', u'indices': [0, 22], u'expanded_url': u'http://cnn.com/', u'display_url': u'cnn.com'}]}, u'description': {u'urls': []}}, u'followers_count': 25379424, u'profile_sidebar_border_color': u'DADADA', u'id_str': u'428333', u'profile_background_color': u'323232', u'listed_count': 163520, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 38873, u'description': u'Breaking news from reporters and editors on the CNN Digital news team. Now 25M strong. Check @cnn for all things CNN, breaking and more.', u'friends_count': 113, u'location': u'Everywhere', u'profile_link_color': u'004287', u'profile_image_url': u'http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF', u'name': u'CNN Breaking News', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 13, u'screen_name': u'cnnbrk', u'notifications': False, u'url': u'http://t.co/HjKR4r61U5', u'created_at': u'Tue Jan 02 01:48:14 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Wed Mar 25 22:36:08 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'source_user_id': 26003862, u'source_status_id_str': u'580859856581689345', u'expanded_url': u'http://twitter.com/CNNweather/status/580859856581689345/photo/1', u'display_url': u'pic.twitter.com/7SRXKOQRum', u'url': u'http://t.co/7SRXKOQRum', u'media_url_https': u'https://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png', u'source_user_id_str': u'26003862', u'source_status_id': 580859856581689345, u'id_str': u'580859829918412800', u'sizes': {u'large': {u'h': 486, u'resize': u'fit', u'w': 864}, u'small': {u'h': 191, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 337, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [98, 120], u'type': u'photo', u'id': 580859829918412800, u'media_url': u'http://pbs.twimg.com/media/CA-g8BKUsAAgjgv.png'}]}
+------------------------------------------------------------------------------------

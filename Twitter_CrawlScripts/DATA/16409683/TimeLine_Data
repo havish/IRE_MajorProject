@@ -1,0 +1,490 @@
+-> contributors	None
+-> truncated	False
+-> text	Thanks @JeffLipsky for taking such a beautiful photo of my boys and me! New @people cover out this week! http://t.co/eM1aqFUCbf
+-> in_reply_to_status_id	None
+-> id	580900322127675392
+-> favorite_count	4270
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 580058848, u'indices': [7, 18], u'id_str': u'580058848', u'screen_name': u'JeffLipsky', u'name': u'Jeff Lipsky'}, {u'id': 25589776, u'indices': [76, 83], u'id_str': u'25589776', u'screen_name': u'people', u'name': u'People magazine'}], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/580900322127675392/photo/1', u'display_url': u'pic.twitter.com/eM1aqFUCbf', u'url': u'http://t.co/eM1aqFUCbf', u'media_url_https': u'https://pbs.twimg.com/media/CA_Fw4WW8AEmae9.jpg', u'id_str': u'580900320504639489', u'sizes': {u'large': {u'h': 1000, u'resize': u'fit', u'w': 744}, u'small': {u'h': 456, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 806, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [105, 127], u'type': u'photo', u'id': 580900320504639489, u'media_url': u'http://pbs.twimg.com/media/CA_Fw4WW8AEmae9.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580900322127675392
+-> retweet_count	2149
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 26 01:13:24 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/580900322127675392/photo/1', u'display_url': u'pic.twitter.com/eM1aqFUCbf', u'url': u'http://t.co/eM1aqFUCbf', u'media_url_https': u'https://pbs.twimg.com/media/CA_Fw4WW8AEmae9.jpg', u'id_str': u'580900320504639489', u'sizes': {u'large': {u'h': 1000, u'resize': u'fit', u'w': 744}, u'small': {u'h': 456, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 806, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [105, 127], u'type': u'photo', u'id': 580900320504639489, u'media_url': u'http://pbs.twimg.com/media/CA_Fw4WW8AEmae9.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @PEOPLEbabies: EXCLUSIVE: In this week's cover story, PEOPLE is at home with @britneyspears and her boys! http://t.co/yBaXJ3pjoN http://…
+-> in_reply_to_status_id	None
+-> id	580811607510482944
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 21053475, u'indices': [3, 16], u'id_str': u'21053475', u'screen_name': u'PEOPLEbabies', u'name': u'PEOPLE Babies'}, {u'id': 16409683, u'indices': [80, 94], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [], u'urls': [{u'url': u'http://t.co/yBaXJ3pjoN', u'indices': [109, 131], u'expanded_url': u'http://bit.ly/1OyLrN6', u'display_url': u'bit.ly/1OyLrN6'}], u'media': [{u'source_user_id': 21053475, u'source_status_id_str': u'580702160402452480', u'expanded_url': u'http://twitter.com/PEOPLEbabies/status/580702160402452480/photo/1', u'display_url': u'pic.twitter.com/2ihNYgLSnb', u'url': u'http://t.co/2ihNYgLSnb', u'media_url_https': u'https://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg', u'source_user_id_str': u'21053475', u'source_status_id': 580702160402452480, u'id_str': u'580702159844614145', u'sizes': {u'large': {u'h': 800, u'resize': u'fit', u'w': 600}, u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [139, 140], u'type': u'photo', u'id': 580702159844614145, u'media_url': u'http://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	580811607510482944
+-> retweet_count	1459
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u"EXCLUSIVE: In this week's cover story, PEOPLE is at home with @britneyspears and her boys! http://t.co/yBaXJ3pjoN http://t.co/2ihNYgLSnb", u'in_reply_to_status_id': None, u'id': 580702160402452480, u'favorite_count': 2290, u'source': u'<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [{u'id': 16409683, u'indices': [62, 76], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [], u'urls': [{u'url': u'http://t.co/yBaXJ3pjoN', u'indices': [91, 113], u'expanded_url': u'http://bit.ly/1OyLrN6', u'display_url': u'bit.ly/1OyLrN6'}], u'media': [{u'expanded_url': u'http://twitter.com/PEOPLEbabies/status/580702160402452480/photo/1', u'display_url': u'pic.twitter.com/2ihNYgLSnb', u'url': u'http://t.co/2ihNYgLSnb', u'media_url_https': u'https://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg', u'id_str': u'580702159844614145', u'sizes': {u'large': {u'h': 800, u'resize': u'fit', u'w': 600}, u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [114, 136], u'type': u'photo', u'id': 580702159844614145, u'media_url': u'http://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg'}]}, u'in_reply_to_screen_name': None, u'id_str': u'580702160402452480', u'retweet_count': 1459, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'000000', u'default_profile_image': False, u'id': 21053475, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/10953323/body_bg.gif', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/3209496638/aab94ed9e584e3c2fe8ba6a28b5e9302_normal.jpeg', u'profile_sidebar_fill_color': u'FFEE9A', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/dgIzYp5rPO', u'indices': [0, 22], u'expanded_url': u'http://celebritybabies.people.com/', u'display_url': u'celebritybabies.people.com'}]}, u'description': {u'urls': []}}, u'followers_count': 85258, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'21053475', u'profile_background_color': u'FA87C2', u'listed_count': 565, u'is_translation_enabled': False, u'utc_offset': -14400, u'statuses_count': 14151, u'description': u'Celebrating Hollywood newest parents and their little stars', u'friends_count': 1090, u'location': u'New York, NY', u'profile_link_color': u'0099B9', u'profile_image_url': u'http://pbs.twimg.com/profile_images/3209496638/aab94ed9e584e3c2fe8ba6a28b5e9302_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/21053475/1360029874', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/10953323/body_bg.gif', u'name': u'PEOPLE Babies', u'lang': u'en', u'profile_background_tile': True, u'favourites_count': 4, u'screen_name': u'PEOPLEbabies', u'notifications': False, u'url': u'http://t.co/dgIzYp5rPO', u'created_at': u'Tue Feb 17 01:47:14 +0000 2009', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Wed Mar 25 12:05:58 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None, u'extended_entities': {u'media': [{u'expanded_url': u'http://twitter.com/PEOPLEbabies/status/580702160402452480/photo/1', u'display_url': u'pic.twitter.com/2ihNYgLSnb', u'url': u'http://t.co/2ihNYgLSnb', u'media_url_https': u'https://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg', u'id_str': u'580702159844614145', u'sizes': {u'large': {u'h': 800, u'resize': u'fit', u'w': 600}, u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [114, 136], u'type': u'photo', u'id': 580702159844614145, u'media_url': u'http://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg'}]}}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Wed Mar 25 19:20:52 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'source_user_id': 21053475, u'source_status_id_str': u'580702160402452480', u'expanded_url': u'http://twitter.com/PEOPLEbabies/status/580702160402452480/photo/1', u'display_url': u'pic.twitter.com/2ihNYgLSnb', u'url': u'http://t.co/2ihNYgLSnb', u'media_url_https': u'https://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg', u'source_user_id_str': u'21053475', u'source_status_id': 580702160402452480, u'id_str': u'580702159844614145', u'sizes': {u'large': {u'h': 800, u'resize': u'fit', u'w': 600}, u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [139, 140], u'type': u'photo', u'id': 580702159844614145, u'media_url': u'http://pbs.twimg.com/media/CA8RiaXXIAEYKlY.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Everyone should have access to clean water. Let's make a difference this #WorldWaterDay w/ #WaterNow @WorldVisionUSA http://t.co/ye6fSo9Nrk
+-> in_reply_to_status_id	None
+-> id	579719814408736769
+-> favorite_count	3126
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 11859822, u'indices': [101, 116], u'id_str': u'11859822', u'screen_name': u'WorldVisionUSA', u'name': u'World Vision USA'}], u'hashtags': [{u'indices': [73, 87], u'text': u'WorldWaterDay'}, {u'indices': [91, 100], u'text': u'WaterNow'}], u'urls': [{u'url': u'http://t.co/ye6fSo9Nrk', u'indices': [117, 139], u'expanded_url': u'http://bit.ly/1ptsNGe', u'display_url': u'bit.ly/1ptsNGe'}]}
+-> in_reply_to_screen_name	None
+-> id_str	579719814408736769
+-> retweet_count	2174
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Sun Mar 22 19:02:29 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Fancy running into this guy! 🙏☺️ Such a sweetheart!! http://t.co/jqyVIVmu30
+-> in_reply_to_status_id	None
+-> id	579351005910847490
+-> favorite_count	5823
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/579351005910847490/photo/1', u'display_url': u'pic.twitter.com/jqyVIVmu30', u'url': u'http://t.co/jqyVIVmu30', u'media_url_https': u'https://pbs.twimg.com/media/CApEqjSUsAAFxOk.jpg', u'id_str': u'579350999887818752', u'sizes': {u'small': {u'h': 340, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1024, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 600, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [53, 75], u'type': u'photo', u'id': 579350999887818752, u'media_url': u'http://pbs.twimg.com/media/CApEqjSUsAAFxOk.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	579351005910847490
+-> retweet_count	2222
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Sat Mar 21 18:36:58 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/579351005910847490/photo/1', u'display_url': u'pic.twitter.com/jqyVIVmu30', u'url': u'http://t.co/jqyVIVmu30', u'media_url_https': u'https://pbs.twimg.com/media/CApEqjSUsAAFxOk.jpg', u'id_str': u'579350999887818752', u'sizes': {u'small': {u'h': 340, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1024, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 600, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [53, 75], u'type': u'photo', u'id': 579350999887818752, u'media_url': u'http://pbs.twimg.com/media/CApEqjSUsAAFxOk.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Listening to my happy song today for #InternationalDayOfHappiness. 'Kiss' by Prince! 🎶 @UN @MixRadio #HappySoundsLike http://t.co/bWfcHujmI2
+-> in_reply_to_status_id	None
+-> id	579001918657290240
+-> favorite_count	2529
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 14159148, u'indices': [87, 90], u'id_str': u'14159148', u'screen_name': u'UN', u'name': u'United Nations'}, {u'id': 786869858, u'indices': [91, 100], u'id_str': u'786869858', u'screen_name': u'MixRadio', u'name': u'MixRadio'}], u'hashtags': [{u'indices': [37, 65], u'text': u'InternationalDayOfHappiness'}, {u'indices': [101, 117], u'text': u'HappySoundsLike'}], u'urls': [{u'url': u'http://t.co/bWfcHujmI2', u'indices': [118, 140], u'expanded_url': u'http://britney.lk/hslplylst', u'display_url': u'britney.lk/hslplylst'}]}
+-> in_reply_to_screen_name	None
+-> id_str	579001918657290240
+-> retweet_count	1452
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Fri Mar 20 19:29:49 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Little me... HUGE tree! http://t.co/DMxNQvqOdT
+-> in_reply_to_status_id	None
+-> id	578696925135794176
+-> favorite_count	5755
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/578696925135794176/photo/1', u'display_url': u'pic.twitter.com/DMxNQvqOdT', u'url': u'http://t.co/DMxNQvqOdT', u'media_url_https': u'https://pbs.twimg.com/media/CAfxyW4UcAAFHlS.jpg', u'id_str': u'578696924577951744', u'sizes': {u'large': {u'h': 1365, u'resize': u'fit', u'w': 1024}, u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [24, 46], u'type': u'photo', u'id': 578696924577951744, u'media_url': u'http://pbs.twimg.com/media/CAfxyW4UcAAFHlS.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	578696925135794176
+-> retweet_count	2565
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 19 23:17:53 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/578696925135794176/photo/1', u'display_url': u'pic.twitter.com/DMxNQvqOdT', u'url': u'http://t.co/DMxNQvqOdT', u'media_url_https': u'https://pbs.twimg.com/media/CAfxyW4UcAAFHlS.jpg', u'id_str': u'578696924577951744', u'sizes': {u'large': {u'h': 1365, u'resize': u'fit', u'w': 1024}, u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [24, 46], u'type': u'photo', u'id': 578696924577951744, u'media_url': u'http://pbs.twimg.com/media/CAfxyW4UcAAFHlS.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	#Bitchology #ItsBritneyBitch http://t.co/2pMdlXrw6c
+-> in_reply_to_status_id	None
+-> id	577948062544474113
+-> favorite_count	9021
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [0, 11], u'text': u'Bitchology'}, {u'indices': [12, 28], u'text': u'ItsBritneyBitch'}], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/577948062544474113/photo/1', u'display_url': u'pic.twitter.com/2pMdlXrw6c', u'url': u'http://t.co/2pMdlXrw6c', u'media_url_https': u'https://pbs.twimg.com/media/CAVIs0FUsAA4lXS.jpg', u'id_str': u'577948061919391744', u'sizes': {u'large': {u'h': 480, u'resize': u'fit', u'w': 480}, u'small': {u'h': 340, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 480, u'resize': u'fit', u'w': 480}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [29, 51], u'type': u'photo', u'id': 577948061919391744, u'media_url': u'http://pbs.twimg.com/media/CAVIs0FUsAA4lXS.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	577948062544474113
+-> retweet_count	6410
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	und
+-> created_at	Tue Mar 17 21:42:10 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/577948062544474113/photo/1', u'display_url': u'pic.twitter.com/2pMdlXrw6c', u'url': u'http://t.co/2pMdlXrw6c', u'media_url_https': u'https://pbs.twimg.com/media/CAVIs0FUsAA4lXS.jpg', u'id_str': u'577948061919391744', u'sizes': {u'large': {u'h': 480, u'resize': u'fit', u'w': 480}, u'small': {u'h': 340, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 480, u'resize': u'fit', u'w': 480}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [29, 51], u'type': u'photo', u'id': 577948061919391744, u'media_url': u'http://pbs.twimg.com/media/CAVIs0FUsAA4lXS.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Cheese! Lol http://t.co/EUTSZmPPKw
+-> in_reply_to_status_id	None
+-> id	577307448379232256
+-> favorite_count	6457
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/577307448379232256/photo/1', u'display_url': u'pic.twitter.com/EUTSZmPPKw', u'url': u'http://t.co/EUTSZmPPKw', u'media_url_https': u'https://pbs.twimg.com/media/CAMCD5wUYAAGcC9.jpg', u'id_str': u'577307443299901440', u'sizes': {u'small': {u'h': 235, u'resize': u'fit', u'w': 340}, u'large': {u'h': 710, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 416, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [12, 34], u'type': u'photo', u'id': 577307443299901440, u'media_url': u'http://pbs.twimg.com/media/CAMCD5wUYAAGcC9.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	577307448379232256
+-> retweet_count	2905
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Mon Mar 16 03:16:36 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/577307448379232256/photo/1', u'display_url': u'pic.twitter.com/EUTSZmPPKw', u'url': u'http://t.co/EUTSZmPPKw', u'media_url_https': u'https://pbs.twimg.com/media/CAMCD5wUYAAGcC9.jpg', u'id_str': u'577307443299901440', u'sizes': {u'small': {u'h': 235, u'resize': u'fit', u'w': 340}, u'large': {u'h': 710, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 416, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [12, 34], u'type': u'photo', u'id': 577307443299901440, u'media_url': u'http://pbs.twimg.com/media/CAMCD5wUYAAGcC9.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @billboard: .@BritneySpears on why her Vegas residency "clicked" and new album not being a "full priority" http://t.co/24nWhpMdnG http:/…
+-> in_reply_to_status_id	None
+-> id	576442555258290176
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 9695312, u'indices': [3, 13], u'id_str': u'9695312', u'screen_name': u'billboard', u'name': u'billboard'}, {u'id': 16409683, u'indices': [16, 30], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [], u'urls': [{u'url': u'http://t.co/24nWhpMdnG', u'indices': [110, 132], u'expanded_url': u'http://blbrd.cm/0H6aIj', u'display_url': u'blbrd.cm/0H6aIj'}], u'media': [{u'source_user_id': 9695312, u'source_status_id_str': u'576374685375578112', u'expanded_url': u'http://twitter.com/billboard/status/576374685375578112/photo/1', u'display_url': u'pic.twitter.com/FABBtjKyhD', u'url': u'http://t.co/FABBtjKyhD', u'media_url_https': u'https://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg', u'source_user_id_str': u'9695312', u'source_status_id': 576374685375578112, u'id_str': u'576374685266534400', u'sizes': {u'small': {u'h': 441, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1330, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 779, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [139, 140], u'type': u'photo', u'id': 576374685266534400, u'media_url': u'http://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	576442555258290176
+-> retweet_count	1774
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u'.@BritneySpears on why her Vegas residency "clicked" and new album not being a "full priority" http://t.co/24nWhpMdnG http://t.co/FABBtjKyhD', u'in_reply_to_status_id': None, u'id': 576374685375578112, u'favorite_count': 2640, u'source': u'<a href="http://www.socialflow.com" rel="nofollow">SocialFlow</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [{u'id': 16409683, u'indices': [1, 15], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [], u'urls': [{u'url': u'http://t.co/24nWhpMdnG', u'indices': [95, 117], u'expanded_url': u'http://blbrd.cm/0H6aIj', u'display_url': u'blbrd.cm/0H6aIj'}], u'media': [{u'expanded_url': u'http://twitter.com/billboard/status/576374685375578112/photo/1', u'display_url': u'pic.twitter.com/FABBtjKyhD', u'url': u'http://t.co/FABBtjKyhD', u'media_url_https': u'https://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg', u'id_str': u'576374685266534400', u'sizes': {u'small': {u'h': 441, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1330, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 779, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [118, 140], u'type': u'photo', u'id': 576374685266534400, u'media_url': u'http://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg'}]}, u'in_reply_to_screen_name': None, u'id_str': u'576374685375578112', u'retweet_count': 1774, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': False, u'profile_text_color': u'333333', u'default_profile_image': False, u'id': 9695312, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/859213624/0a4c4debd18292678c5c55a64c9fd228.png', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/448936044625293312/mokKeoul_normal.jpeg', u'profile_sidebar_fill_color': u'CCCCCC', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/ibUi0iFaJc', u'indices': [0, 22], u'expanded_url': u'http://billboard.com', u'display_url': u'billboard.com'}]}, u'description': {u'urls': []}}, u'followers_count': 2494553, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'9695312', u'profile_background_color': u'FFFFFF', u'listed_count': 14912, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 75057, u'description': u"Your destination for the world's most popular music charts, news, videos, reviews, events + more. For Biz updates: @billboardbiz & Latin news: @billboardlatin.", u'friends_count': 3463, u'location': u'Worldwide!', u'profile_link_color': u'1EB0E8', u'profile_image_url': u'http://pbs.twimg.com/profile_images/448936044625293312/mokKeoul_normal.jpeg', u'following': False, u'geo_enabled': True, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/9695312/1426259585', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/859213624/0a4c4debd18292678c5c55a64c9fd228.png', u'name': u'billboard', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 3239, u'screen_name': u'billboard', u'notifications': False, u'url': u'http://t.co/ibUi0iFaJc', u'created_at': u'Thu Oct 25 21:33:23 +0000 2007', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Fri Mar 13 13:30:08 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None, u'extended_entities': {u'media': [{u'expanded_url': u'http://twitter.com/billboard/status/576374685375578112/photo/1', u'display_url': u'pic.twitter.com/FABBtjKyhD', u'url': u'http://t.co/FABBtjKyhD', u'media_url_https': u'https://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg', u'id_str': u'576374685266534400', u'sizes': {u'small': {u'h': 441, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1330, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 779, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [118, 140], u'type': u'photo', u'id': 576374685266534400, u'media_url': u'http://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg'}]}}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Fri Mar 13 17:59:49 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'source_user_id': 9695312, u'source_status_id_str': u'576374685375578112', u'expanded_url': u'http://twitter.com/billboard/status/576374685375578112/photo/1', u'display_url': u'pic.twitter.com/FABBtjKyhD', u'url': u'http://t.co/FABBtjKyhD', u'media_url_https': u'https://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg', u'source_user_id_str': u'9695312', u'source_status_id': 576374685375578112, u'id_str': u'576374685266534400', u'sizes': {u'small': {u'h': 441, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1330, u'resize': u'fit', u'w': 1024}, u'medium': {u'h': 779, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [139, 140], u'type': u'photo', u'id': 576374685266534400, u'media_url': u'http://pbs.twimg.com/media/B_-xuPTW4AAbUYA.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Thank u to @billboard &amp; to the talented @joepugliese for this shot. New cover out tomorrow! http://t.co/PNX5y0QY3n http://t.co/Sfmmy1ccaV
+-> in_reply_to_status_id	None
+-> id	576147224217841665
+-> favorite_count	5098
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 9695312, u'indices': [11, 21], u'id_str': u'9695312', u'screen_name': u'billboard', u'name': u'billboard'}, {u'id': 17964728, u'indices': [44, 56], u'id_str': u'17964728', u'screen_name': u'joepugliese', u'name': u'Joe Pugliese'}], u'hashtags': [], u'urls': [{u'url': u'http://t.co/PNX5y0QY3n', u'indices': [96, 118], u'expanded_url': u'http://britney.lk/blbrd', u'display_url': u'britney.lk/blbrd'}], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/576147224217841665/photo/1', u'display_url': u'pic.twitter.com/Sfmmy1ccaV', u'url': u'http://t.co/Sfmmy1ccaV', u'media_url_https': u'https://pbs.twimg.com/media/B_7i2BJU0AEsH_B.jpg', u'id_str': u'576147219998363649', u'sizes': {u'large': {u'h': 663, u'resize': u'fit', u'w': 510}, u'small': {u'h': 442, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 663, u'resize': u'fit', u'w': 510}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [119, 141], u'type': u'photo', u'id': 576147219998363649, u'media_url': u'http://pbs.twimg.com/media/B_7i2BJU0AEsH_B.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	576147224217841665
+-> retweet_count	3680
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Thu Mar 12 22:26:17 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/576147224217841665/photo/1', u'display_url': u'pic.twitter.com/Sfmmy1ccaV', u'url': u'http://t.co/Sfmmy1ccaV', u'media_url_https': u'https://pbs.twimg.com/media/B_7i2BJU0AEsH_B.jpg', u'id_str': u'576147219998363649', u'sizes': {u'large': {u'h': 663, u'resize': u'fit', u'w': 510}, u'small': {u'h': 442, u'resize': u'fit', u'w': 340}, u'medium': {u'h': 663, u'resize': u'fit', u'w': 510}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [119, 141], u'type': u'photo', u'id': 576147219998363649, u'media_url': u'http://pbs.twimg.com/media/B_7i2BJU0AEsH_B.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	Who else is listening to @Madonna's #RebelHeart today? Totally feeling this album! http://t.co/RR3tLpQOyL
+-> in_reply_to_status_id	None
+-> id	575453886485389313
+-> favorite_count	4782
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 512700138, u'indices': [25, 33], u'id_str': u'512700138', u'screen_name': u'Madonna', u'name': u'Madonna'}], u'hashtags': [{u'indices': [36, 47], u'text': u'RebelHeart'}], u'urls': [{u'url': u'http://t.co/RR3tLpQOyL', u'indices': [83, 105], u'expanded_url': u'http://smarturl.it/RebelHeart', u'display_url': u'smarturl.it/RebelHeart'}]}
+-> in_reply_to_screen_name	None
+-> id_str	575453886485389313
+-> retweet_count	3426
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Wed Mar 11 00:31:12 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	We (sort of) made it up alive... lol http://t.co/cnTGv8YHct
+-> in_reply_to_status_id	None
+-> id	575431124463157248
+-> favorite_count	8178
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/575431124463157248/photo/1', u'display_url': u'pic.twitter.com/cnTGv8YHct', u'url': u'http://t.co/cnTGv8YHct', u'media_url_https': u'https://pbs.twimg.com/media/B_xXjvxUgAMfOSe.jpg', u'id_str': u'575431124026949635', u'sizes': {u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1024, u'resize': u'fit', u'w': 768}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [37, 59], u'type': u'photo', u'id': 575431124026949635, u'media_url': u'http://pbs.twimg.com/media/B_xXjvxUgAMfOSe.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	575431124463157248
+-> retweet_count	3160
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Tue Mar 10 23:00:45 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/575431124463157248/photo/1', u'display_url': u'pic.twitter.com/cnTGv8YHct', u'url': u'http://t.co/cnTGv8YHct', u'media_url_https': u'https://pbs.twimg.com/media/B_xXjvxUgAMfOSe.jpg', u'id_str': u'575431124026949635', u'sizes': {u'small': {u'h': 453, u'resize': u'fit', u'w': 340}, u'large': {u'h': 1024, u'resize': u'fit', u'w': 768}, u'medium': {u'h': 800, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [37, 59], u'type': u'photo', u'id': 575431124026949635, u'media_url': u'http://pbs.twimg.com/media/B_xXjvxUgAMfOSe.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	It's Saturday night at #PieceOfMe! Last show before a short break so I wanna see you all get CRAZY tonight! http://t.co/zIOeTWtcnh
+-> in_reply_to_status_id	None
+-> id	574400562399051776
+-> favorite_count	6738
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [{u'indices': [23, 33], u'text': u'PieceOfMe'}], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/574400562399051776/photo/1', u'display_url': u'pic.twitter.com/zIOeTWtcnh', u'url': u'http://t.co/zIOeTWtcnh', u'media_url_https': u'https://pbs.twimg.com/media/B_iuQ6jUcAAI0-h.jpg', u'id_str': u'574400558108274688', u'sizes': {u'small': {u'h': 253, u'resize': u'fit', u'w': 340}, u'large': {u'h': 753, u'resize': u'fit', u'w': 1008}, u'medium': {u'h': 448, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [108, 130], u'type': u'photo', u'id': 574400558108274688, u'media_url': u'http://pbs.twimg.com/media/B_iuQ6jUcAAI0-h.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	574400562399051776
+-> retweet_count	3181
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Sun Mar 08 02:45:40 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/574400562399051776/photo/1', u'display_url': u'pic.twitter.com/zIOeTWtcnh', u'url': u'http://t.co/zIOeTWtcnh', u'media_url_https': u'https://pbs.twimg.com/media/B_iuQ6jUcAAI0-h.jpg', u'id_str': u'574400558108274688', u'sizes': {u'small': {u'h': 253, u'resize': u'fit', u'w': 340}, u'large': {u'h': 753, u'resize': u'fit', u'w': 1008}, u'medium': {u'h': 448, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [108, 130], u'type': u'photo', u'id': 574400558108274688, u'media_url': u'http://pbs.twimg.com/media/B_iuQ6jUcAAI0-h.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	@DanicaPatrick Hope you ladies had fun!! Thanks for coming :)
+-> in_reply_to_status_id	574072840476999682
+-> id	574383934118567936
+-> favorite_count	687
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 21255118, u'indices': [0, 14], u'id_str': u'21255118', u'screen_name': u'DanicaPatrick', u'name': u'Danica Patrick'}], u'hashtags': [], u'urls': []}
+-> in_reply_to_screen_name	DanicaPatrick
+-> id_str	574383934118567936
+-> retweet_count	272
+-> in_reply_to_user_id	21255118
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	21255118
+-> lang	en
+-> created_at	Sun Mar 08 01:39:36 +0000 2015
+-> in_reply_to_status_id_str	574072840476999682
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	After bath time, we sing!! This little one is something else, lolol 😬😂 http://t.co/5fDMYW190r
+-> in_reply_to_status_id	None
+-> id	573723152909381633
+-> favorite_count	6340
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/573723152909381633/video/1', u'display_url': u'pic.twitter.com/5fDMYW190r', u'url': u'http://t.co/5fDMYW190r', u'media_url_https': u'https://pbs.twimg.com/ext_tw_video_thumb/573723088610680834/pu/img/XhcWEaQ2qGZIkQIu.jpg', u'id_str': u'573723088610680834', u'sizes': {u'small': {u'h': 340, u'resize': u'fit', u'w': 340}, u'large': {u'h': 720, u'resize': u'fit', u'w': 720}, u'medium': {u'h': 600, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [71, 93], u'type': u'photo', u'id': 573723088610680834, u'media_url': u'http://pbs.twimg.com/ext_tw_video_thumb/573723088610680834/pu/img/XhcWEaQ2qGZIkQIu.jpg'}]}
+-> in_reply_to_screen_name	None
+-> id_str	573723152909381633
+-> retweet_count	2979
+-> in_reply_to_user_id	None
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Fri Mar 06 05:53:53 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+-> extended_entities	{u'media': [{u'expanded_url': u'http://twitter.com/britneyspears/status/573723152909381633/video/1', u'display_url': u'pic.twitter.com/5fDMYW190r', u'url': u'http://t.co/5fDMYW190r', u'media_url_https': u'https://pbs.twimg.com/ext_tw_video_thumb/573723088610680834/pu/img/XhcWEaQ2qGZIkQIu.jpg', u'video_info': {u'aspect_ratio': [1, 1], u'duration_millis': 11222, u'variants': [{u'url': u'https://video.twimg.com/ext_tw_video/573723088610680834/pu/vid/720x720/R_Pf3jkbGSeVYyXZ.mp4', u'bitrate': 1280000, u'content_type': u'video/mp4'}, {u'url': u'https://video.twimg.com/ext_tw_video/573723088610680834/pu/vid/240x240/K7ad-jOgrqM_1V__.mp4', u'bitrate': 320000, u'content_type': u'video/mp4'}, {u'url': u'https://video.twimg.com/ext_tw_video/573723088610680834/pu/pl/ABJ_eYwhb7s2kXPI.m3u8', u'content_type': u'application/x-mpegURL'}, {u'url': u'https://video.twimg.com/ext_tw_video/573723088610680834/pu/vid/480x480/UTOvGxpZjAr6_E44.webm', u'bitrate': 832000, u'content_type': u'video/webm'}, {u'url': u'https://video.twimg.com/ext_tw_video/573723088610680834/pu/vid/480x480/UTOvGxpZjAr6_E44.mp4', u'bitrate': 832000, u'content_type': u'video/mp4'}]}, u'id_str': u'573723088610680834', u'sizes': {u'small': {u'h': 340, u'resize': u'fit', u'w': 340}, u'large': {u'h': 720, u'resize': u'fit', u'w': 720}, u'medium': {u'h': 600, u'resize': u'fit', u'w': 600}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [71, 93], u'type': u'video', u'id': 573723088610680834, u'media_url': u'http://pbs.twimg.com/ext_tw_video_thumb/573723088610680834/pu/img/XhcWEaQ2qGZIkQIu.jpg'}]}
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	@Rogerskolney Thank you! :)
+-> in_reply_to_status_id	573676072924938240
+-> id	573676227883466752
+-> favorite_count	496
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 23719619, u'indices': [0, 13], u'id_str': u'23719619', u'screen_name': u'Rogerskolney', u'name': u'Skolney'}], u'hashtags': [], u'urls': []}
+-> in_reply_to_screen_name	Rogerskolney
+-> id_str	573676227883466752
+-> retweet_count	202
+-> in_reply_to_user_id	23719619
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	23719619
+-> lang	en
+-> created_at	Fri Mar 06 02:47:25 +0000 2015
+-> in_reply_to_status_id_str	573676072924938240
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @Vevo: If we told you this was @BritneySpears' 8th #VevoCertified video would you hold it against us? http://t.co/hizWinkA86 #TBT
+-> in_reply_to_status_id	None
+-> id	573675735451201536
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 28201743, u'indices': [3, 8], u'id_str': u'28201743', u'screen_name': u'Vevo', u'name': u'Vevo'}, {u'id': 16409683, u'indices': [34, 48], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [{u'indices': [54, 68], u'text': u'VevoCertified'}, {u'indices': [128, 132], u'text': u'TBT'}], u'urls': [{u'url': u'http://t.co/hizWinkA86', u'indices': [105, 127], u'expanded_url': u'http://bit.ly/1BcQkVb', u'display_url': u'bit.ly/1BcQkVb'}]}
+-> in_reply_to_screen_name	None
+-> id_str	573675735451201536
+-> retweet_count	1452
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u"If we told you this was @BritneySpears' 8th #VevoCertified video would you hold it against us? http://t.co/hizWinkA86 #TBT", u'in_reply_to_status_id': None, u'id': 573634274198437888, u'favorite_count': 2031, u'source': u'<a href="http://www.spredfast.com" rel="nofollow">Spredfast app</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [{u'id': 16409683, u'indices': [24, 38], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [{u'indices': [44, 58], u'text': u'VevoCertified'}, {u'indices': [118, 122], u'text': u'TBT'}], u'urls': [{u'url': u'http://t.co/hizWinkA86', u'indices': [95, 117], u'expanded_url': u'http://bit.ly/1BcQkVb', u'display_url': u'bit.ly/1BcQkVb'}]}, u'in_reply_to_screen_name': None, u'id_str': u'573634274198437888', u'retweet_count': 1452, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': False, u'profile_text_color': u'6F7172', u'default_profile_image': False, u'id': 28201743, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000146375816/Qss7c9sj.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/461496140253233153/l5q6Qn8q_normal.jpeg', u'profile_sidebar_fill_color': u'FFFFFF', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/DszEueAPuo', u'indices': [0, 22], u'expanded_url': u'http://vevo.com', u'display_url': u'vevo.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/oAJayMkmCk', u'indices': [95, 117], u'expanded_url': u'http://vevo.com/lift', u'display_url': u'vevo.com/lift'}, {u'url': u'http://t.co/p8CId7BX4t', u'indices': [118, 140], u'expanded_url': u'http://youtube.com/vevoliftus', u'display_url': u'youtube.com/vevoliftus'}]}}, u'followers_count': 3136891, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'28201743', u'profile_background_color': u'FF0031', u'listed_count': 6238, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 21544, u'description': u'@Misterwives are the latest #VevoLIFT U.S. artists! Watch exclusive videos, interviews & more: http://t.co/oAJayMkmCk http://t.co/p8CId7BX4t', u'friends_count': 3620, u'location': u'New York, NY', u'profile_link_color': u'FF0031', u'profile_image_url': u'http://pbs.twimg.com/profile_images/461496140253233153/l5q6Qn8q_normal.jpeg', u'following': False, u'geo_enabled': True, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/28201743/1425318468', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000146375816/Qss7c9sj.jpeg', u'name': u'Vevo', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 3761, u'screen_name': u'Vevo', u'notifications': False, u'url': u'http://t.co/DszEueAPuo', u'created_at': u'Wed Apr 01 21:32:48 +0000 2009', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Fri Mar 06 00:00:43 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> possibly_sensitive	False
+-> lang	en
+-> created_at	Fri Mar 06 02:45:28 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	RT @DJPaulyD: Catch Me On @extratv TONIGHT ! W/ The Queen @britneyspears !
+-> in_reply_to_status_id	None
+-> id	572579227754745856
+-> favorite_count	0
+-> source	<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 94360081, u'indices': [3, 12], u'id_str': u'94360081', u'screen_name': u'DJPaulyD', u'name': u'DJ Pauly D'}, {u'id': 15676578, u'indices': [26, 34], u'id_str': u'15676578', u'screen_name': u'extratv', u'name': u'ExtraTV'}, {u'id': 16409683, u'indices': [58, 72], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [], u'urls': []}
+-> in_reply_to_screen_name	None
+-> id_str	572579227754745856
+-> retweet_count	863
+-> in_reply_to_user_id	None
+-> favorited	False
+-> retweeted_status	{u'contributors': None, u'truncated': False, u'text': u'Catch Me On @extratv TONIGHT ! W/ The Queen @britneyspears !', u'in_reply_to_status_id': None, u'id': 572506326254800896, u'favorite_count': 1256, u'source': u'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [{u'id': 15676578, u'indices': [12, 20], u'id_str': u'15676578', u'screen_name': u'extratv', u'name': u'ExtraTV'}, {u'id': 16409683, u'indices': [44, 58], u'id_str': u'16409683', u'screen_name': u'britneyspears', u'name': u'Britney Spears'}], u'hashtags': [], u'urls': []}, u'in_reply_to_screen_name': None, u'id_str': u'572506326254800896', u'retweet_count': 863, u'in_reply_to_user_id': None, u'favorited': False, u'user': {u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'3B372B', u'default_profile_image': False, u'id': 94360081, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/312088440/twitter.jpg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/506535855893528576/nR02lKzi_normal.jpeg', u'profile_sidebar_fill_color': u'BFBFBF', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/y2Wr8RQp76', u'indices': [0, 22], u'expanded_url': u'http://www.DJPaulyD.com', u'display_url': u'DJPaulyD.com'}]}, u'description': {u'urls': []}}, u'followers_count': 4333723, u'profile_sidebar_border_color': u'631953', u'id_str': u'94360081', u'profile_background_color': u'000000', u'listed_count': 13053, u'is_translation_enabled': True, u'utc_offset': -14400, u'statuses_count': 18790, u'description': u'To Book DJ Pauly D Email William Morris Endeavor Bookings@DJPaulyD.com #TeamDJPaulyD #Remix #SMS', u'friends_count': 14700, u'location': u'Las Vegas, Nevada', u'profile_link_color': u'751A64', u'profile_image_url': u'http://pbs.twimg.com/profile_images/506535855893528576/nR02lKzi_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/94360081/1398456933', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/312088440/twitter.jpg', u'name': u'DJ Pauly D', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 170, u'screen_name': u'DJPaulyD', u'notifications': False, u'url': u'http://t.co/y2Wr8RQp76', u'created_at': u'Thu Dec 03 16:17:58 +0000 2009', u'contributors_enabled': False, u'time_zone': u'Eastern Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}, u'geo': None, u'in_reply_to_user_id_str': None, u'lang': u'en', u'created_at': u'Mon Mar 02 21:18:39 +0000 2015', u'in_reply_to_status_id_str': None, u'place': None}
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	None
+-> lang	en
+-> created_at	Tue Mar 03 02:08:20 +0000 2015
+-> in_reply_to_status_id_str	None
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	@sidreasonlife thank you.  All of you are amazing.
+-> in_reply_to_status_id	571944752565911552
+-> id	571944834098864128
+-> favorite_count	664
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 2228554087, u'indices': [0, 14], u'id_str': u'2228554087', u'screen_name': u'sidreasonlife', u'name': u' \u0431\u043b\u0443\u043d\u0434\u0438'}], u'hashtags': [], u'urls': []}
+-> in_reply_to_screen_name	sidreasonlife
+-> id_str	571944834098864128
+-> retweet_count	265
+-> in_reply_to_user_id	2228554087
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	2228554087
+-> lang	en
+-> created_at	Sun Mar 01 08:07:29 +0000 2015
+-> in_reply_to_status_id_str	571944752565911552
+-> place	None
+------------------------------------------------------------------------------------
+-> contributors	None
+-> truncated	False
+-> text	@reedlikeabook_ thank you so much!!!
+-> in_reply_to_status_id	571942854152613889
+-> id	571943042266972161
+-> favorite_count	537
+-> source	<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-> retweeted	False
+-> coordinates	None
+-> entities	{u'symbols': [], u'user_mentions': [{u'id': 322395753, u'indices': [0, 15], u'id_str': u'322395753', u'screen_name': u'reedlikeabook_', u'name': u'Reed Rollins'}], u'hashtags': [], u'urls': []}
+-> in_reply_to_screen_name	reedlikeabook_
+-> id_str	571943042266972161
+-> retweet_count	209
+-> in_reply_to_user_id	322395753
+-> favorited	False
+-> user	{u'follow_request_sent': False, u'profile_use_background_image': True, u'profile_text_color': u'222222', u'default_profile_image': False, u'id': 16409683, u'profile_background_image_url_https': u'https://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'verified': True, u'profile_location': None, u'profile_image_url_https': u'https://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'profile_sidebar_fill_color': u'F4F4F4', u'entities': {u'url': {u'urls': [{u'url': u'http://t.co/PBMqPsIRsx', u'indices': [0, 22], u'expanded_url': u'http://www.britneyspears.com', u'display_url': u'britneyspears.com'}]}, u'description': {u'urls': [{u'url': u'http://t.co/ksHAC0VhfA', u'indices': [52, 74], u'expanded_url': u'http://britney.lk/pieceofmetix', u'display_url': u'britney.lk/pieceofmetix'}]}}, u'followers_count': 41265220, u'profile_sidebar_border_color': u'FFFFFF', u'id_str': u'16409683', u'profile_background_color': u'000000', u'listed_count': 128604, u'is_translation_enabled': True, u'utc_offset': -25200, u'statuses_count': 4049, u'description': u'It\u2019s Britney Bitch! #PieceOfMe tickets on sale now: http://t.co/ksHAC0VhfA', u'friends_count': 399425, u'location': u'Los Angeles, CA', u'profile_link_color': u'D44A71', u'profile_image_url': u'http://pbs.twimg.com/profile_images/426108979186384896/J3JDXvs4_normal.jpeg', u'following': False, u'geo_enabled': False, u'profile_banner_url': u'https://pbs.twimg.com/profile_banners/16409683/1397512555', u'profile_background_image_url': u'http://pbs.twimg.com/profile_background_images/378800000172752091/DmmPCAPz.jpeg', u'name': u'Britney Spears', u'lang': u'en', u'profile_background_tile': False, u'favourites_count': 753, u'screen_name': u'britneyspears', u'notifications': False, u'url': u'http://t.co/PBMqPsIRsx', u'created_at': u'Mon Sep 22 20:47:35 +0000 2008', u'contributors_enabled': False, u'time_zone': u'Pacific Time (US & Canada)', u'protected': False, u'default_profile': False, u'is_translator': False}
+-> geo	None
+-> in_reply_to_user_id_str	322395753
+-> lang	en
+-> created_at	Sun Mar 01 08:00:22 +0000 2015
+-> in_reply_to_status_id_str	571942854152613889
+-> place	None
+------------------------------------------------------------------------------------
